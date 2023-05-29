@@ -1,7 +1,5 @@
 import math
-from chars import *
-
-
+from constants import *
 
 
 def DataFlowAnalysis(filepath):
